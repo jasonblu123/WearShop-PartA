@@ -21,11 +21,11 @@
 
 ### Dataflow Diagram
 
-  ![Dataflow Diagram](docs/DataFlow_Diagram.PNG)
+  ![Dataflow Diagram](docs/DataFlow_Diagram.png)
 
 ### Application Architecture Diagram
 
-  ![Application Architecture Diagram](docs/Application_Architecture_Diagram.PNG)
+  ![Application Architecture Diagram](docs/Application_Architecture_Diagram.png)
 
 
 ### Wireframes
@@ -40,7 +40,7 @@
 
 ### Screenshots of Trello Board
 
-- ![Trello Board Screenshot](docs/Trello_Screenshot.PNG)
+- ![Trello Board Screenshot](docs/Trello_Screenshot.png)
 
 ## Deliverables
 
